@@ -1,0 +1,668 @@
+13-07-2026 08:57:12 | INFO | Executing Registration Test : Hamsika
+13-07-2026 08:57:13 | INFO | Website Opened
+13-07-2026 08:57:15 | INFO | Competition Menu Clicked
+13-07-2026 08:57:15 | INFO | Register Button Clicked
+13-07-2026 08:57:15 | INFO | Student Name : Hamsika
+13-07-2026 08:57:15 | INFO | Email : hamsika@gmail.com
+13-07-2026 08:57:15 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 08:57:15 | INFO | Screenshot Saved : Hamsika.png
+13-07-2026 08:57:15 | INFO | Registration Completed : Hamsika
+13-07-2026 08:57:20 | INFO | Executing Registration Test : Arun
+13-07-2026 08:57:22 | INFO | Website Opened
+13-07-2026 08:57:23 | INFO | Competition Menu Clicked
+13-07-2026 08:57:24 | INFO | Register Button Clicked
+13-07-2026 08:57:24 | INFO | Student Name : Arun
+13-07-2026 08:57:24 | INFO | Email : arun@gmail.com
+13-07-2026 08:57:24 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 08:57:24 | INFO | Screenshot Saved : Arun.png
+13-07-2026 08:57:24 | INFO | Registration Completed : Arun
+13-07-2026 08:57:28 | INFO | Executing Registration Test : Priya
+13-07-2026 08:57:30 | INFO | Website Opened
+13-07-2026 08:57:32 | INFO | Competition Menu Clicked
+13-07-2026 08:57:32 | INFO | Register Button Clicked
+13-07-2026 08:57:32 | INFO | Student Name : Priya
+13-07-2026 08:57:32 | INFO | Email : priya@gmail.com
+13-07-2026 08:57:32 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 08:57:33 | INFO | Screenshot Saved : Priya.png
+13-07-2026 08:57:33 | INFO | Registration Completed : Priya
+13-07-2026 09:01:53 | INFO | ========== Executing Registration Test : Hamsika ==========
+13-07-2026 09:01:55 | INFO | Verified Home Page URL
+13-07-2026 09:01:55 | INFO | Verified Home Page Title
+13-07-2026 09:01:59 | INFO | ========== Executing Registration Test : Arun ==========
+13-07-2026 09:02:00 | INFO | Verified Home Page URL
+13-07-2026 09:02:00 | INFO | Verified Home Page Title
+13-07-2026 09:02:03 | INFO | ========== Executing Registration Test : Priya ==========
+13-07-2026 09:02:05 | INFO | Verified Home Page URL
+13-07-2026 09:02:05 | INFO | Verified Home Page Title
+13-07-2026 09:07:22 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 09:07:27 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 09:07:31 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 09:11:02 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 09:11:04 | INFO | Verified Home Page URL
+13-07-2026 09:11:04 | INFO | Verified Home Page Title
+13-07-2026 09:11:04 | INFO | Competition Menu Visible
+13-07-2026 09:11:05 | INFO | Competition Menu Clicked
+13-07-2026 09:11:05 | INFO | Register Button Visible
+13-07-2026 09:11:05 | INFO | Register Button Clicked
+13-07-2026 09:11:05 | INFO | Registration Page Opened
+13-07-2026 09:11:10 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 09:11:12 | INFO | Verified Home Page URL
+13-07-2026 09:11:12 | INFO | Verified Home Page Title
+13-07-2026 09:11:12 | INFO | Competition Menu Visible
+13-07-2026 09:11:12 | INFO | Competition Menu Clicked
+13-07-2026 09:11:12 | INFO | Register Button Visible
+13-07-2026 09:11:13 | INFO | Register Button Clicked
+13-07-2026 09:11:13 | INFO | Registration Page Opened
+13-07-2026 09:11:16 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 09:11:18 | INFO | Verified Home Page URL
+13-07-2026 09:11:18 | INFO | Verified Home Page Title
+13-07-2026 09:11:18 | INFO | Competition Menu Visible
+13-07-2026 09:11:18 | INFO | Competition Menu Clicked
+13-07-2026 09:11:18 | INFO | Register Button Visible
+13-07-2026 09:11:19 | INFO | Register Button Clicked
+13-07-2026 09:11:19 | INFO | Registration Page Opened
+13-07-2026 09:12:56 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 09:12:59 | INFO | Verified Home Page URL
+13-07-2026 09:12:59 | INFO | Verified Home Page Title
+13-07-2026 09:12:59 | INFO | Competition Menu Visible
+13-07-2026 09:12:59 | INFO | Competition Menu Clicked
+13-07-2026 09:12:59 | INFO | Register Button Visible
+13-07-2026 09:13:00 | INFO | Register Button Clicked
+13-07-2026 09:13:00 | INFO | Registration Page Opened
+13-07-2026 09:13:04 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 09:13:05 | INFO | Verified Home Page URL
+13-07-2026 09:13:05 | INFO | Verified Home Page Title
+13-07-2026 09:13:05 | INFO | Competition Menu Visible
+13-07-2026 09:13:05 | INFO | Competition Menu Clicked
+13-07-2026 09:13:05 | INFO | Register Button Visible
+13-07-2026 09:13:06 | INFO | Register Button Clicked
+13-07-2026 09:13:06 | INFO | Registration Page Opened
+13-07-2026 09:13:09 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 09:13:11 | INFO | Verified Home Page URL
+13-07-2026 09:13:11 | INFO | Verified Home Page Title
+13-07-2026 09:13:11 | INFO | Competition Menu Visible
+13-07-2026 09:13:12 | INFO | Competition Menu Clicked
+13-07-2026 09:13:12 | INFO | Register Button Visible
+13-07-2026 09:13:12 | INFO | Register Button Clicked
+13-07-2026 09:13:12 | INFO | Registration Page Opened
+13-07-2026 10:42:19 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 10:42:22 | INFO | Verified Home Page URL
+13-07-2026 10:42:26 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 10:42:29 | INFO | Verified Home Page URL
+13-07-2026 10:42:32 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 10:42:33 | INFO | Verified Home Page URL
+13-07-2026 10:47:40 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 10:47:42 | INFO | Verified Home Page URL
+13-07-2026 10:47:42 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 10:47:42 | INFO | Verified Home Page Title (exact match)
+13-07-2026 10:47:42 | INFO | Competition Menu Visible
+13-07-2026 10:47:42 | INFO | Competition Menu Clicked
+13-07-2026 10:47:42 | INFO | Register Button Visible
+13-07-2026 10:47:43 | INFO | Register Button Clicked
+13-07-2026 10:47:43 | INFO | Registration Page Opened
+13-07-2026 10:47:48 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 10:47:50 | INFO | Verified Home Page URL
+13-07-2026 10:47:50 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 10:47:50 | INFO | Verified Home Page Title (exact match)
+13-07-2026 10:47:50 | INFO | Competition Menu Visible
+13-07-2026 10:47:51 | INFO | Competition Menu Clicked
+13-07-2026 10:47:51 | INFO | Register Button Visible
+13-07-2026 10:47:51 | INFO | Register Button Clicked
+13-07-2026 10:47:51 | INFO | Registration Page Opened
+13-07-2026 10:47:55 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 10:47:57 | INFO | Verified Home Page URL
+13-07-2026 10:47:57 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 10:47:57 | INFO | Verified Home Page Title (exact match)
+13-07-2026 10:47:57 | INFO | Competition Menu Visible
+13-07-2026 10:47:57 | INFO | Competition Menu Clicked
+13-07-2026 10:47:57 | INFO | Register Button Visible
+13-07-2026 10:47:58 | INFO | Register Button Clicked
+13-07-2026 10:47:58 | INFO | Registration Page Opened
+13-07-2026 10:49:57 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 10:50:00 | INFO | Verified Home Page URL
+13-07-2026 10:50:00 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 10:50:00 | INFO | Verified Home Page Title (exact match)
+13-07-2026 10:50:00 | INFO | Competition Menu Visible
+13-07-2026 10:50:01 | INFO | Competition Menu Clicked
+13-07-2026 10:50:01 | INFO | Register Button Visible
+13-07-2026 10:50:01 | INFO | Register Button Clicked
+13-07-2026 10:50:01 | INFO | Registration Page Opened
+13-07-2026 10:50:02 | INFO | Uploaded file property reports : ''
+13-07-2026 11:12:42 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 11:12:45 | INFO | Verified Home Page URL
+13-07-2026 11:12:45 | INFO | Actual Page Title Found : 'Render - Application loading'
+13-07-2026 11:12:50 | INFO | Title after retry : 'Render - Application loading'
+13-07-2026 11:13:48 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 11:13:50 | INFO | Verified Home Page URL
+13-07-2026 11:13:50 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:13:50 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:13:50 | INFO | Competition Menu Visible
+13-07-2026 11:13:51 | INFO | Competition Menu Clicked
+13-07-2026 11:13:51 | INFO | Register Button Visible
+13-07-2026 11:13:52 | INFO | Register Button Clicked
+13-07-2026 11:13:52 | INFO | Registration Page Opened
+13-07-2026 11:13:53 | INFO | Uploaded file property reports : ''
+13-07-2026 11:15:21 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 11:15:22 | INFO | Verified Home Page URL
+13-07-2026 11:15:22 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:15:22 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:15:22 | INFO | Competition Menu Visible
+13-07-2026 11:15:23 | INFO | Competition Menu Clicked
+13-07-2026 11:15:23 | INFO | Register Button Visible
+13-07-2026 11:15:24 | INFO | Register Button Clicked
+13-07-2026 11:15:24 | INFO | Registration Page Opened
+13-07-2026 11:15:24 | INFO | Uploaded file property reports : ''
+13-07-2026 11:18:55 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 11:18:56 | INFO | Verified Home Page URL
+13-07-2026 11:18:56 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:18:56 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:18:56 | INFO | Competition Menu Visible
+13-07-2026 11:18:57 | INFO | Competition Menu Clicked
+13-07-2026 11:18:57 | INFO | Register Button Visible
+13-07-2026 11:18:57 | INFO | Register Button Clicked
+13-07-2026 11:18:57 | INFO | Registration Page Opened
+13-07-2026 11:18:58 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:18:58 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:18:58 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:18:58 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:18:59 | INFO | Registration Completed Successfully : Hamsika
+13-07-2026 11:19:42 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 11:19:44 | INFO | Verified Home Page URL
+13-07-2026 11:19:44 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:19:44 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:19:44 | INFO | Competition Menu Visible
+13-07-2026 11:19:45 | INFO | Competition Menu Clicked
+13-07-2026 11:19:45 | INFO | Register Button Visible
+13-07-2026 11:19:45 | INFO | Register Button Clicked
+13-07-2026 11:19:45 | INFO | Registration Page Opened
+13-07-2026 11:19:46 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:19:46 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:19:47 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:19:47 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:19:47 | INFO | Registration Completed Successfully : Hamsika
+13-07-2026 11:19:55 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 11:19:56 | INFO | Verified Home Page URL
+13-07-2026 11:19:57 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:19:57 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:19:57 | INFO | Competition Menu Visible
+13-07-2026 11:19:57 | INFO | Competition Menu Clicked
+13-07-2026 11:19:57 | INFO | Register Button Visible
+13-07-2026 11:19:58 | INFO | Register Button Clicked
+13-07-2026 11:19:58 | INFO | Registration Page Opened
+13-07-2026 11:19:59 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:19:59 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:19:59 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:19:59 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:19:59 | INFO | Registration Completed Successfully : Arun
+13-07-2026 11:20:07 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 11:20:09 | INFO | Verified Home Page URL
+13-07-2026 11:20:09 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:20:09 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:20:09 | INFO | Competition Menu Visible
+13-07-2026 11:20:09 | INFO | Competition Menu Clicked
+13-07-2026 11:20:09 | INFO | Register Button Visible
+13-07-2026 11:20:11 | INFO | Register Button Clicked
+13-07-2026 11:20:11 | INFO | Registration Page Opened
+13-07-2026 11:20:11 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:20:11 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:20:12 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:20:12 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:20:12 | INFO | Registration Completed Successfully : Priya
+13-07-2026 11:20:44 | INFO | 
+========== Executing Registration Test : Hamsika ==========
+
+13-07-2026 11:20:46 | INFO | Verified Home Page URL
+13-07-2026 11:20:46 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:20:46 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:20:46 | INFO | Competition Menu Visible
+13-07-2026 11:20:47 | INFO | Competition Menu Clicked
+13-07-2026 11:20:47 | INFO | Register Button Visible
+13-07-2026 11:20:48 | INFO | Register Button Clicked
+13-07-2026 11:20:48 | INFO | Registration Page Opened
+13-07-2026 11:20:49 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:20:49 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:20:49 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:20:49 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:20:49 | INFO | Registration Completed Successfully : Hamsika
+13-07-2026 11:20:58 | INFO | 
+========== Executing Registration Test : Arun ==========
+
+13-07-2026 11:21:00 | INFO | Verified Home Page URL
+13-07-2026 11:21:00 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:21:00 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:21:00 | INFO | Competition Menu Visible
+13-07-2026 11:21:00 | INFO | Competition Menu Clicked
+13-07-2026 11:21:00 | INFO | Register Button Visible
+13-07-2026 11:21:01 | INFO | Register Button Clicked
+13-07-2026 11:21:01 | INFO | Registration Page Opened
+13-07-2026 11:21:02 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:21:02 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:21:02 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:21:02 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:21:02 | INFO | Registration Completed Successfully : Arun
+13-07-2026 11:21:11 | INFO | 
+========== Executing Registration Test : Priya ==========
+
+13-07-2026 11:21:13 | INFO | Verified Home Page URL
+13-07-2026 11:21:13 | INFO | Actual Page Title Found : 'Arasutech Competition'
+13-07-2026 11:21:13 | INFO | Verified Home Page Title (exact match)
+13-07-2026 11:21:13 | INFO | Competition Menu Visible
+13-07-2026 11:21:13 | INFO | Competition Menu Clicked
+13-07-2026 11:21:13 | INFO | Register Button Visible
+13-07-2026 11:21:14 | INFO | Register Button Clicked
+13-07-2026 11:21:14 | INFO | Registration Page Opened
+13-07-2026 11:21:14 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:21:14 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:21:15 | INFO | Uploaded file property reports : 'sample.jpg'
+13-07-2026 11:21:15 | INFO | Uploaded File : testdata/sample.jpg
+13-07-2026 11:21:15 | INFO | Registration Completed Successfully : Priya
+16-07-2026 10:38:06 | INFO | 
+========== Student Name Required ==========
+
+16-07-2026 10:38:41 | INFO | 
+========== Grade Required ==========
+
+16-07-2026 10:38:50 | INFO | Competition Menu Clicked
+16-07-2026 10:38:51 | INFO | Register Button Clicked
+16-07-2026 10:38:51 | INFO | Student Name : Hamsika
+16-07-2026 10:38:51 | INFO | School : Alagappa
+16-07-2026 10:38:51 | INFO | Email : demo@gmail.com
+16-07-2026 10:38:51 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:39:23 | INFO | 
+========== School Required ==========
+
+16-07-2026 10:39:25 | INFO | Competition Menu Clicked
+16-07-2026 10:39:25 | INFO | Register Button Clicked
+16-07-2026 10:39:25 | INFO | Student Name : Hamsika
+16-07-2026 10:39:25 | INFO | Grade : 5
+16-07-2026 10:39:25 | INFO | Email : demo@gmail.com
+16-07-2026 10:39:25 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:39:57 | INFO | 
+========== Email Required ==========
+
+16-07-2026 10:40:00 | INFO | Competition Menu Clicked
+16-07-2026 10:40:01 | INFO | Register Button Clicked
+16-07-2026 10:40:01 | INFO | Student Name : Hamsika
+16-07-2026 10:40:01 | INFO | Grade : 5
+16-07-2026 10:40:01 | INFO | School : Alagappa
+16-07-2026 10:40:01 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:40:35 | INFO | 
+========== Invalid Email ==========
+
+16-07-2026 10:40:39 | INFO | Competition Menu Clicked
+16-07-2026 10:40:39 | INFO | Register Button Clicked
+16-07-2026 10:40:39 | INFO | Student Name : Hamsika
+16-07-2026 10:40:39 | INFO | Grade : 5
+16-07-2026 10:40:39 | INFO | School : Alagappa
+16-07-2026 10:40:39 | INFO | Email : abc
+16-07-2026 10:40:39 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:41:11 | INFO | 
+========== File Required ==========
+
+16-07-2026 10:41:13 | INFO | Competition Menu Clicked
+16-07-2026 10:41:14 | INFO | Register Button Clicked
+16-07-2026 10:41:14 | INFO | Student Name : Hamsika
+16-07-2026 10:41:14 | INFO | Grade : 5
+16-07-2026 10:41:14 | INFO | School : Alagappa
+16-07-2026 10:41:14 | INFO | Email : demo@gmail.com
+16-07-2026 10:47:32 | INFO | 
+========== Student Name Required ==========
+
+16-07-2026 10:47:35 | INFO | Competition Menu Clicked
+16-07-2026 10:47:36 | INFO | Register Button Clicked
+16-07-2026 10:47:36 | INFO | Grade : 5
+16-07-2026 10:47:36 | INFO | School : Alagappa
+16-07-2026 10:47:36 | INFO | Email : demo@gmail.com
+16-07-2026 10:47:36 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:47:36 | INFO | Clicked Submit Button
+16-07-2026 10:47:44 | INFO | 
+========== Grade Required ==========
+
+16-07-2026 10:47:48 | INFO | Competition Menu Clicked
+16-07-2026 10:47:48 | INFO | Register Button Clicked
+16-07-2026 10:47:49 | INFO | Student Name : Hamsika
+16-07-2026 10:47:49 | INFO | School : Alagappa
+16-07-2026 10:47:49 | INFO | Email : demo@gmail.com
+16-07-2026 10:47:49 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:47:49 | INFO | Clicked Submit Button
+16-07-2026 10:47:50 | INFO | 
+========== School Required ==========
+
+16-07-2026 10:47:52 | INFO | Competition Menu Clicked
+16-07-2026 10:47:53 | INFO | Register Button Clicked
+16-07-2026 10:47:53 | INFO | Student Name : Hamsika
+16-07-2026 10:47:53 | INFO | Grade : 5
+16-07-2026 10:47:53 | INFO | Email : demo@gmail.com
+16-07-2026 10:47:53 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:47:53 | INFO | Clicked Submit Button
+16-07-2026 10:47:54 | INFO | 
+========== Email Required ==========
+
+16-07-2026 10:47:56 | INFO | Competition Menu Clicked
+16-07-2026 10:47:57 | INFO | Register Button Clicked
+16-07-2026 10:47:57 | INFO | Student Name : Hamsika
+16-07-2026 10:47:57 | INFO | Grade : 5
+16-07-2026 10:47:57 | INFO | School : Alagappa
+16-07-2026 10:47:57 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:47:57 | INFO | Clicked Submit Button
+16-07-2026 10:47:58 | INFO | 
+========== Invalid Email ==========
+
+16-07-2026 10:48:00 | INFO | Competition Menu Clicked
+16-07-2026 10:48:00 | INFO | Register Button Clicked
+16-07-2026 10:48:00 | INFO | Student Name : Hamsika
+16-07-2026 10:48:00 | INFO | Grade : 5
+16-07-2026 10:48:00 | INFO | School : Alagappa
+16-07-2026 10:48:01 | INFO | Email : abc
+16-07-2026 10:48:01 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:48:01 | INFO | Clicked Submit Button
+16-07-2026 10:48:02 | INFO | 
+========== File Required ==========
+
+16-07-2026 10:48:03 | INFO | Competition Menu Clicked
+16-07-2026 10:48:04 | INFO | Register Button Clicked
+16-07-2026 10:48:04 | INFO | Student Name : Hamsika
+16-07-2026 10:48:04 | INFO | Grade : 5
+16-07-2026 10:48:04 | INFO | School : Alagappa
+16-07-2026 10:48:04 | INFO | Email : demo@gmail.com
+16-07-2026 10:48:04 | INFO | Clicked Submit Button
+16-07-2026 10:49:48 | INFO | 
+========== Student Name Required ==========
+
+16-07-2026 10:49:51 | INFO | Competition Menu Clicked
+16-07-2026 10:49:51 | INFO | Register Button Clicked
+16-07-2026 10:49:51 | INFO | Grade : 5
+16-07-2026 10:49:51 | INFO | School : Alagappa
+16-07-2026 10:49:51 | INFO | Email : demo@gmail.com
+16-07-2026 10:49:51 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:49:51 | INFO | Clicked Submit Button
+16-07-2026 10:49:54 | INFO | 
+========== Grade Required ==========
+
+16-07-2026 10:49:56 | INFO | Competition Menu Clicked
+16-07-2026 10:49:57 | INFO | Register Button Clicked
+16-07-2026 10:49:57 | INFO | Student Name : Hamsika
+16-07-2026 10:49:57 | INFO | School : Alagappa
+16-07-2026 10:49:57 | INFO | Email : demo@gmail.com
+16-07-2026 10:49:57 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:49:57 | INFO | Clicked Submit Button
+16-07-2026 10:49:58 | INFO | 
+========== School Required ==========
+
+16-07-2026 10:50:01 | INFO | Competition Menu Clicked
+16-07-2026 10:50:01 | INFO | Register Button Clicked
+16-07-2026 10:50:01 | INFO | Student Name : Hamsika
+16-07-2026 10:50:01 | INFO | Grade : 5
+16-07-2026 10:50:01 | INFO | Email : demo@gmail.com
+16-07-2026 10:50:01 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:50:01 | INFO | Clicked Submit Button
+16-07-2026 10:50:03 | INFO | 
+========== Email Required ==========
+
+16-07-2026 10:50:05 | INFO | Competition Menu Clicked
+16-07-2026 10:50:06 | INFO | Register Button Clicked
+16-07-2026 10:50:06 | INFO | Student Name : Hamsika
+16-07-2026 10:50:06 | INFO | Grade : 5
+16-07-2026 10:50:06 | INFO | School : Alagappa
+16-07-2026 10:50:06 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:50:06 | INFO | Clicked Submit Button
+16-07-2026 10:50:07 | INFO | 
+========== Invalid Email ==========
+
+16-07-2026 10:50:09 | INFO | Competition Menu Clicked
+16-07-2026 10:50:10 | INFO | Register Button Clicked
+16-07-2026 10:50:10 | INFO | Student Name : Hamsika
+16-07-2026 10:50:10 | INFO | Grade : 5
+16-07-2026 10:50:10 | INFO | School : Alagappa
+16-07-2026 10:50:10 | INFO | Email : abc
+16-07-2026 10:50:10 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:50:10 | INFO | Clicked Submit Button
+16-07-2026 10:50:11 | INFO | 
+========== File Required ==========
+
+16-07-2026 10:50:13 | INFO | Competition Menu Clicked
+16-07-2026 10:50:14 | INFO | Register Button Clicked
+16-07-2026 10:50:14 | INFO | Student Name : Hamsika
+16-07-2026 10:50:14 | INFO | Grade : 5
+16-07-2026 10:50:14 | INFO | School : Alagappa
+16-07-2026 10:50:14 | INFO | Email : demo@gmail.com
+16-07-2026 10:50:14 | INFO | Clicked Submit Button
+16-07-2026 10:52:38 | INFO | 
+========== Student Name Required ==========
+
+16-07-2026 10:52:41 | INFO | Competition Menu Clicked
+16-07-2026 10:52:42 | INFO | Register Button Clicked
+16-07-2026 10:52:42 | INFO | Grade : 5
+16-07-2026 10:52:42 | INFO | School : Alagappa
+16-07-2026 10:52:42 | INFO | Email : demo@gmail.com
+16-07-2026 10:52:42 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:52:42 | INFO | Clicked Submit Button
+16-07-2026 10:52:44 | INFO | 
+========== Grade Required ==========
+
+16-07-2026 10:52:47 | INFO | Competition Menu Clicked
+16-07-2026 10:52:48 | INFO | Register Button Clicked
+16-07-2026 10:52:48 | INFO | Student Name : Hamsika
+16-07-2026 10:52:48 | INFO | School : Alagappa
+16-07-2026 10:52:48 | INFO | Email : demo@gmail.com
+16-07-2026 10:52:48 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:52:48 | INFO | Clicked Submit Button
+16-07-2026 10:52:49 | INFO | 
+========== School Required ==========
+
+16-07-2026 10:52:51 | INFO | Competition Menu Clicked
+16-07-2026 10:52:52 | INFO | Register Button Clicked
+16-07-2026 10:52:52 | INFO | Student Name : Hamsika
+16-07-2026 10:52:52 | INFO | Grade : 5
+16-07-2026 10:52:52 | INFO | Email : demo@gmail.com
+16-07-2026 10:52:52 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:52:52 | INFO | Clicked Submit Button
+16-07-2026 10:52:53 | INFO | 
+========== Email Required ==========
+
+16-07-2026 10:52:55 | INFO | Competition Menu Clicked
+16-07-2026 10:52:55 | INFO | Register Button Clicked
+16-07-2026 10:52:55 | INFO | Student Name : Hamsika
+16-07-2026 10:52:55 | INFO | Grade : 5
+16-07-2026 10:52:55 | INFO | School : Alagappa
+16-07-2026 10:52:55 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:52:55 | INFO | Clicked Submit Button
+16-07-2026 10:52:57 | INFO | 
+========== Invalid Email ==========
+
+16-07-2026 10:52:59 | INFO | Competition Menu Clicked
+16-07-2026 10:52:59 | INFO | Register Button Clicked
+16-07-2026 10:52:59 | INFO | Student Name : Hamsika
+16-07-2026 10:52:59 | INFO | Grade : 5
+16-07-2026 10:52:59 | INFO | School : Alagappa
+16-07-2026 10:52:59 | INFO | Email : abc
+16-07-2026 10:52:59 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:52:59 | INFO | Clicked Submit Button
+16-07-2026 10:53:01 | INFO | 
+========== File Required ==========
+
+16-07-2026 10:53:02 | INFO | Competition Menu Clicked
+16-07-2026 10:53:03 | INFO | Register Button Clicked
+16-07-2026 10:53:03 | INFO | Student Name : Hamsika
+16-07-2026 10:53:03 | INFO | Grade : 5
+16-07-2026 10:53:03 | INFO | School : Alagappa
+16-07-2026 10:53:03 | INFO | Email : demo@gmail.com
+16-07-2026 10:53:03 | INFO | Clicked Submit Button
+16-07-2026 10:54:55 | INFO | 
+========== Student Name Required ==========
+
+16-07-2026 10:54:59 | INFO | Competition Menu Clicked
+16-07-2026 10:54:59 | INFO | Register Button Clicked
+16-07-2026 10:54:59 | INFO | Grade : 5
+16-07-2026 10:54:59 | INFO | School : Alagappa
+16-07-2026 10:55:00 | INFO | Email : demo@gmail.com
+16-07-2026 10:55:00 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:55:00 | INFO | Clicked Submit Button
+16-07-2026 10:55:00 | INFO | Please fill out this field.
+16-07-2026 10:55:02 | INFO | 
+========== Grade Required ==========
+
+16-07-2026 10:55:05 | INFO | Competition Menu Clicked
+16-07-2026 10:55:06 | INFO | Register Button Clicked
+16-07-2026 10:55:06 | INFO | Student Name : Hamsika
+16-07-2026 10:55:06 | INFO | School : Alagappa
+16-07-2026 10:55:06 | INFO | Email : demo@gmail.com
+16-07-2026 10:55:06 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:55:06 | INFO | Clicked Submit Button
+16-07-2026 10:55:06 | INFO | Please fill out this field.
+16-07-2026 10:55:08 | INFO | 
+========== School Required ==========
+
+16-07-2026 10:55:10 | INFO | Competition Menu Clicked
+16-07-2026 10:55:11 | INFO | Register Button Clicked
+16-07-2026 10:55:11 | INFO | Student Name : Hamsika
+16-07-2026 10:55:11 | INFO | Grade : 5
+16-07-2026 10:55:11 | INFO | Email : demo@gmail.com
+16-07-2026 10:55:11 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:55:11 | INFO | Clicked Submit Button
+16-07-2026 10:55:11 | INFO | Please fill out this field.
+16-07-2026 10:55:12 | INFO | 
+========== Email Required ==========
+
+16-07-2026 10:55:14 | INFO | Competition Menu Clicked
+16-07-2026 10:55:15 | INFO | Register Button Clicked
+16-07-2026 10:55:15 | INFO | Student Name : Hamsika
+16-07-2026 10:55:15 | INFO | Grade : 5
+16-07-2026 10:55:15 | INFO | School : Alagappa
+16-07-2026 10:55:15 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:55:15 | INFO | Clicked Submit Button
+16-07-2026 10:55:15 | INFO | Please fill out this field.
+16-07-2026 10:55:16 | INFO | 
+========== Invalid Email ==========
+
+16-07-2026 10:55:18 | INFO | Competition Menu Clicked
+16-07-2026 10:55:19 | INFO | Register Button Clicked
+16-07-2026 10:55:19 | INFO | Student Name : Hamsika
+16-07-2026 10:55:19 | INFO | Grade : 5
+16-07-2026 10:55:19 | INFO | School : Alagappa
+16-07-2026 10:55:19 | INFO | Email : abc
+16-07-2026 10:55:19 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 10:55:19 | INFO | Clicked Submit Button
+16-07-2026 10:55:19 | INFO | Please include an '@' in the email address. 'abc' is missing an '@'.
+16-07-2026 10:55:21 | INFO | 
+========== File Required ==========
+
+16-07-2026 10:55:23 | INFO | Competition Menu Clicked
+16-07-2026 10:55:23 | INFO | Register Button Clicked
+16-07-2026 10:55:23 | INFO | Student Name : Hamsika
+16-07-2026 10:55:23 | INFO | Grade : 5
+16-07-2026 10:55:23 | INFO | School : Alagappa
+16-07-2026 10:55:23 | INFO | Email : demo@gmail.com
+16-07-2026 10:55:24 | INFO | Clicked Submit Button
+16-07-2026 11:03:57 | INFO | 
+========== Student Name Required ==========
+
+16-07-2026 11:04:00 | INFO | Competition Menu Clicked
+16-07-2026 11:04:01 | INFO | Register Button Clicked
+16-07-2026 11:04:01 | INFO | Grade : 5
+16-07-2026 11:04:02 | INFO | School : Alagappa
+16-07-2026 11:04:02 | INFO | Email : demo@gmail.com
+16-07-2026 11:04:02 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 11:04:02 | INFO | Clicked Submit Button
+16-07-2026 11:04:03 | INFO | Please fill out this field.
+16-07-2026 11:04:03 | INFO | 
+========== Grade Required ==========
+
+16-07-2026 11:04:05 | INFO | Competition Menu Clicked
+16-07-2026 11:04:06 | INFO | Register Button Clicked
+16-07-2026 11:04:06 | INFO | Student Name : Hamsika
+16-07-2026 11:04:07 | INFO | School : Alagappa
+16-07-2026 11:04:07 | INFO | Email : demo@gmail.com
+16-07-2026 11:04:07 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 11:04:08 | INFO | Clicked Submit Button
+16-07-2026 11:04:08 | INFO | Please fill out this field.
+16-07-2026 11:04:08 | INFO | 
+========== School Required ==========
+
+16-07-2026 11:04:10 | INFO | Competition Menu Clicked
+16-07-2026 11:04:11 | INFO | Register Button Clicked
+16-07-2026 11:04:11 | INFO | Student Name : Hamsika
+16-07-2026 11:04:11 | INFO | Grade : 5
+16-07-2026 11:04:12 | INFO | Email : demo@gmail.com
+16-07-2026 11:04:12 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 11:04:12 | INFO | Clicked Submit Button
+16-07-2026 11:04:12 | INFO | Please fill out this field.
+16-07-2026 11:04:13 | INFO | 
+========== Email Required ==========
+
+16-07-2026 11:04:15 | INFO | Competition Menu Clicked
+16-07-2026 11:04:16 | INFO | Register Button Clicked
+16-07-2026 11:04:16 | INFO | Student Name : Hamsika
+16-07-2026 11:04:17 | INFO | Grade : 5
+16-07-2026 11:04:17 | INFO | School : Alagappa
+16-07-2026 11:04:17 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 11:04:18 | INFO | Clicked Submit Button
+16-07-2026 11:04:18 | INFO | Please fill out this field.
+16-07-2026 11:04:18 | INFO | 
+========== Invalid Email ==========
+
+16-07-2026 11:04:21 | INFO | Competition Menu Clicked
+16-07-2026 11:04:21 | INFO | Register Button Clicked
+16-07-2026 11:04:22 | INFO | Student Name : Hamsika
+16-07-2026 11:04:22 | INFO | Grade : 5
+16-07-2026 11:04:22 | INFO | School : Alagappa
+16-07-2026 11:04:23 | INFO | Email : abc
+16-07-2026 11:04:23 | INFO | Uploaded File : testdata/sample.jpg
+16-07-2026 11:04:23 | INFO | Clicked Submit Button
+16-07-2026 11:04:23 | INFO | Please include an '@' in the email address. 'abc' is missing an '@'.
+16-07-2026 11:04:24 | INFO | 
+========== File Required ==========
+
+16-07-2026 11:04:26 | INFO | Competition Menu Clicked
+16-07-2026 11:04:27 | INFO | Register Button Clicked
+16-07-2026 11:04:27 | INFO | Student Name : Hamsika
+16-07-2026 11:04:27 | INFO | Grade : 5
+16-07-2026 11:04:27 | INFO | School : Alagappa
+16-07-2026 11:04:28 | INFO | Email : demo@gmail.com
+16-07-2026 11:04:28 | INFO | Clicked Submit Button
