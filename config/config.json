@@ -1,0 +1,7 @@
+{
+    "environment": "QA",
+    "browser": "chromium",
+    "headless": false,
+    "slow_mo": 300,
+    "timeout": 30000
+}
