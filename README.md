@@ -115,3 +115,4 @@ pytest --html=reports/report.html --self-contained-html
 - Parallel Execution
 - Cross Browser Execution
 - AI Assisted Automation
+- GitHub Actions Test
