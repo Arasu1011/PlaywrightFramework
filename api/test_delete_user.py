@@ -1,14 +1,17 @@
-from utils.api_client import APIClient
-
-client = APIClient()
+import requests
+from config.config import REQRES_API_KEY
 
 
 def test_delete_user():
 
-    response = client.delete("/users/1")
+    url = "https://reqres.in/api/users/2"
+
+    headers = {"x-api-key": REQRES_API_KEY}
+
+    response = requests.delete(url, headers=headers)
 
     print("Status Code :", response.status_code)
 
-    assert response.status_code == 200
+    assert response.status_code == 204
 
     print("DELETE API Test PASSED")

@@ -1,3 +1,4 @@
+import os
 import pytest
 from playwright.sync_api import sync_playwright
 
@@ -7,9 +8,7 @@ def browser():
 
     with sync_playwright() as p:
 
-        browser = p.chromium.launch(
-            headless=True
-        )
+        browser = p.chromium.launch(headless=False, slow_mo=300)
 
         yield browser
 
@@ -25,14 +24,16 @@ def page(browser, request):
 
     yield page
 
-    # Take screenshot only if test failed
-    if hasattr(request.node, "rep_call") and request.node.rep_call.failed:
-        page.screenshot(
-            path=f"screenshots/{request.node.name}.png",
-            full_page=True
-        )
+    if hasattr(request.node, "rep_call"):
 
-    page.close()
+        if request.node.rep_call.failed:
+
+            os.makedirs("reports/screenshots", exist_ok=True)
+
+            page.screenshot(
+                path=f"reports/screenshots/{request.node.name}.png", full_page=True
+            )
+
     context.close()
 
 
@@ -41,6 +42,6 @@ def pytest_runtest_makereport(item, call):
 
     outcome = yield
 
-    rep = outcome.get_result()
+    report = outcome.get_result()
 
-    setattr(item, "rep_" + rep.when, rep)
+    setattr(item, "rep_" + report.when, report)

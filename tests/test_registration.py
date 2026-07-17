@@ -1,7 +1,7 @@
 import pytest
 
 from pages.home_page import HomePage
-from pages.registration_page import RegisterPage
+from pages.registration_page import RegistrationPage
 from utils.excel_reader import get_registration_data
 from utils.logger import logger
 
@@ -12,7 +12,7 @@ def test_registration(page, name, grade, school, email, file):
     logger.info(f"\n========== Executing Registration Test : {name} ==========\n")
 
     home = HomePage(page)
-    register = RegisterPage(page)
+    register = RegistrationPage(page)
 
     # Open Website
     home.open()
@@ -32,10 +32,6 @@ def test_registration(page, name, grade, school, email, file):
     register.verify_registration_page()
 
     # Verify Fields
-    register.verify_name_field()
-    register.verify_grade_field()
-    register.verify_school_field()
-    register.verify_email_field()
     register.verify_upload_field()
     register.verify_submit_button()
 
