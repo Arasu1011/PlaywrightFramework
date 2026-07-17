@@ -13,7 +13,11 @@ on:
 
 jobs:
   test:
+
     runs-on: ubuntu-latest
+
+    env:
+      REQRES_API_KEY: ${{ secrets.REQRES_API_KEY }}
 
     steps:
       - name: Checkout Repository
